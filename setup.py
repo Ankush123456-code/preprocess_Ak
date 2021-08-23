@@ -13,7 +13,7 @@ setuptools.setup(
     Long_description_content="text/markdown",
     pakage=setuptools.find_packages(),
     Classifiers=['Programming Language:: Python :: 3',
-                 'License :: OSI Aproved :: MIT License',
+                 'License :: OSI Approved :: MIT License',
                  'Operating System :: OS Independent'],
     python_require='>=3.5'
 )
